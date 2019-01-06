@@ -1,0 +1,14 @@
+package org.lanqiao.jdbc;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringbootWeb04JdbcApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringbootWeb04JdbcApplication.class, args);
+    }
+
+}
+
